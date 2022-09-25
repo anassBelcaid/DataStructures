@@ -1,19 +1,19 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Algorithms and Data Structures
+course_description: "A course to introduce the zoology of Data structures and their use in use in Problem solving. The course will also teach you to the Design and analysis of algorithms."
+course_semester: "Fall 2022"
 
 baseurl: "/DataStructures/" # the subpath of your site, e.g. /blog/
-url: "https://anassbelcaid.github.io/" # the base hostname & protocol for your site
+url: "https://anassbelcaid.github.io" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "National School of Applied Sciences"
+schoolurl: "http://www.ensas.uca.ma/"
+twitter_username: anassBelcaid1
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    National School of Applied Sciences
+    Safi
+    Morocco
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
@@ -50,3 +50,4 @@ defaults:
       type: "assignments"
     values:
       layout: "assignment"
+
