@@ -1,17 +1,13 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
-title: Sample Lecture
-tldr: "Short text to discribe what this lecture is about."
+date: 2022-09-26T8:00:00+4:30
+title: Course overview
+tldr: "Introduction and Overview of the course"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
-    - url: /static_files/presentations/lec.zip
+    - url: /overview/
       name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
-      name: slides
 ---
 **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+- [Getting started with C++](https://www.w3schools.com/cpp/cpp_getstarted.asp)
+- [Goodle Started link](https://developers.google.com/edu/c++/getting-started)
