@@ -1,7 +1,7 @@
 ---
 layout : page
 title  :   Qt Creator and the Stanford Library
-date   :  2022/09/28
+date   :  2022/10/02
 permalink: /qtcreator/
 ---
 

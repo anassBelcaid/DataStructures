@@ -3,12 +3,18 @@ layout: default
 ---
 <div class="post">
 
+<script src=”https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id=”MathJax-script” async src=”https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<div class="post">
+
+
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
   <article class="post-content">
     {{ content }}
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   </article>
 
 </div>

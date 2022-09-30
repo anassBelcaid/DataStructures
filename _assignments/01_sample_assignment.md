@@ -1,7 +1,7 @@
 ---
 type: assignment
-date: 2022-09-26T4:00:00+4:30
-title: 'Assignment #1 - Sample Assignment'
+date: 2022-10-03T4:00:00+4:30
+title: 'Assignment #1 -  Qt Creator installation'
 pdf: /qtcreator/
 attachment: /Qt/CS106.zip
 <!-- solutions: /static_files/assignments/asg_solutions.pdf -->
