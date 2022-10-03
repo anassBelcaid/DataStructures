@@ -3,7 +3,7 @@ course_name: Algorithms and Data Structures
 course_description: "A course to introduce the zoology of Data structures and their use in use in Problem solving. The course will also teach you to the Design and analysis of algorithms."
 course_semester: "Fall 2022"
 
-baseurl: "/DataStructures/" # the subpath of your site, e.g. /blog/
+baseurl: "/DataStructures" # the subpath of your site, e.g. /blog/
 url: "https://anassbelcaid.github.io" # the base hostname & protocol for your site
 
 schoolname: "National School of Applied Sciences"
