@@ -10,6 +10,6 @@ links:
 ---
 **Suggested Readings:**
 
-- [Programmiz](https://www.programiz.com/cpp-programming/arrays)
-- [Tutorial Point](https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm)
+- [C++ reference](https://cplusplus.com/reference/vector/vector/)
+- [Programmiz](https://www.programiz.com/cpp-programming/vectors)
 
